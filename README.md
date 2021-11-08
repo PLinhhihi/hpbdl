@@ -1,3 +1,0 @@
-# hpbd
-# hpbdl
-# hpbdl
